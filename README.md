@@ -1,4 +1,4 @@
-# GLYRISK Project <img src="icone_glyrisk.png" alt="GLYRISK Logo" width="200">
+# <img src="assets/images/votre-logo.png" alt="GLYRISK Logo" width="100"> GLYRISK Project 
 
 *Website under development - Bilingual site (English/French) coming soon*
 
