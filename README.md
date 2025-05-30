@@ -1,4 +1,7 @@
-# <img src="assets/images/icone_glyrisk.png" alt="GLYRISK Logo" width="100"> GLYRISK Project 
+<div align="center">
+  <img src="assets/images/icone_glyrisk.png" alt="GLYRISK Logo" width="150" style="vertical-align: middle;">
+  <span style="font-size: 2em; font-weight: bold; margin-left: 20px;">ANR GLYRISK Project</span>
+</div>
 
 *Website under development - Bilingual site (English/French) coming soon*
 
