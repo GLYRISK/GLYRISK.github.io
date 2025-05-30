@@ -1,5 +1,6 @@
 # GLYRISK Project ![icone_glyrisk](https://github.com/user-attachments/assets/d9c9988d-9658-46dd-ad62-8dd5fb55d2e9)
 
+*Website under development - Bilingual site (English/French) coming soon*
 
 ## About
 
@@ -33,4 +34,7 @@ For more information: [claire.vandiedonck@inserm.fr]
 
 ---
 
-*Website under development - Bilingual site (English/French) coming soon*
+
+## License
+- **Code:** MIT License
+- **Graphics & Logo:** All rights reserved - GLYRISK Project
