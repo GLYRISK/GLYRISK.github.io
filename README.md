@@ -1,4 +1,4 @@
-# GLYRISK Project ![icone_glyrisk](https://github.com/user-attachments/assets/d9c9988d-9658-46dd-ad62-8dd5fb55d2e9)
+# GLYRISK Project <img src="icone_glyrisk.png" alt="GLYRISK Logo" width="200">
 
 *Website under development - Bilingual site (English/French) coming soon*
 
